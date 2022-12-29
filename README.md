@@ -9,7 +9,7 @@ I have been in the field for `3+ years` as a full-time back-end engineer, workin
 - <img src="https://ps.w.org/shopengine/assets/icon-128x128.gif" height="15"> [ShopEngine](https://wordpress.org/plugins/shopengine/) – Elementor WooCommerce Builder Addons, Variation Swatches, Wishlist, Products Compare – All in One Solution
 - <img src="https://ps.w.org/x-currency/assets/icon-256x256.gif" height="15"> [X-Currency](https://wordpress.org/plugins/x-currency/) – Switcher for WooCommerce custom currency, exchange rates, pay in selected currency
 - <img src="https://ps.w.org/metform/assets/icon-128x128.png" height="15"> [Metform](https://wordpress.org/plugins/metform/) - Elementor Contact Form Builder – Flexible and Design-Friendly Contact Form builder plugin for WordPress
-- <img src="https://ps.w.org/wp-social/assets/icon-128x128.png" height="15"> [Wp Social](https://wordpress.org/plugins/wp-social/) – Social Login and Register, Social Share, & Social Counter
+- <img src="https://ps.w.org/wp-social/assets/icon-256x256.png" height="15"> [Wp Social](https://wordpress.org/plugins/wp-social/) – Social Login and Register, Social Share, & Social Counter
 
 
 #### My Current Stack
