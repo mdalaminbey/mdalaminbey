@@ -2,7 +2,7 @@
 
 I have been in the field for `3+ years` as a full-time back-end engineer, working on a variety of unique and innovative projects with a strong focus on complex integration and data migration including Web and API development.
 
-#### A Hand Built Projects
+#### A Hand-Built Projects
 - <img src="https://ps.w.org/superdocs/assets/icon-256x256.png" height="15"> [SuperDocs](https://wordpress.org/plugins/superdocs/) – The Ultimate Knowledge Base, Wiki And Documentation Builder
 - <img src="https://ps.w.org/x-currency/assets/icon-256x256.gif" height="15"> [X-Currency](https://wordpress.org/plugins/x-currency/) – Switcher for WooCommerce custom currency, exchange rates, pay in selected currency
 
