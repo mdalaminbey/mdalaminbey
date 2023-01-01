@@ -14,4 +14,4 @@ I have been in the field for `3+ years` as a full-time back-end engineer, workin
 
 #### My Current Stack
 
-<img height="48" src="img/laravel.png" alt="laravel"><img height="48" src="img/wordpress.png" alt="wordpress"><img height="48" src="img/postgresql-original.svg" alt="postgress"><img height="48" src="img/docker-original.svg" alt="Docker"><img height="48" src="img/linux-original.svg" alt="linux"><img height="48" src="img/nginx-original.svg" alt="nginx"><img height="48" src="img/git-original.svg" alt="git">
+<img height="48" src="img/laravel.png" alt="laravel"><img height="48" src="img/wordpress.png" alt="wordpress"><img height="48" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" alt="postgress"><img height="48" src="img/docker-original.svg" alt="Docker"><img height="48" src="img/linux-original.svg" alt="linux"><img height="48" src="img/nginx-original.svg" alt="nginx"><img height="48" src="img/git-original.svg" alt="git">
